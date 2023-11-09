@@ -1,0 +1,45 @@
+[
+    {
+        "imagen1": "Imagenes/Departamentos/depto1.jpg",
+        "tamaño1": "2 habitaciones, 2 baños",
+        "precio1": "$800,000",
+        "descripcion1": "Departamento de lujo en una ubicación privilegiada. Con una elegante distribución, este espacioso departamento ofrece vistas panorámicas, un diseño moderno y acceso a servicios exclusivos, como un spa y un salón de eventos."
+
+    },
+    {
+        "imagen2": "Imagenes/Departamentos/depto2.jpg",
+        "tamaño2": "3 habitaciones, 3 baños",
+        "precio2": "$1,800,000",
+        "descripcion2": " Exclusivo departamento de lujo en un edificio icónico de la ciudad. Con interiores sofisticados y amplias áreas de entretenimiento, esta propiedad ofrece un estilo de vida lujoso y refinado. Además, cuenta con servicios de primera clase y seguridad las 24 horas."
+
+    },
+    {
+        "imagen3": "Imagenes/Departamentos/depto3.jpg",
+        "tamaño3": "4 habitaciones, 4 baños",
+        "precio3": " $3,000,000",
+        "descripcion3": "Impresionante departamento de lujo con vista al río. Diseñado con atención a los detalles, este espacioso departamento cuenta con una amplia terraza, una piscina privada y acceso exclusivo a un gimnasio y spa de clase mundial."
+
+    },
+    {
+        "imagen4": "Imagenes/Departamentos/depto4.jpg",
+        "tamaño4": "5 habitaciones, 5 baños",
+        "precio4": " $4,500,000",
+        "descripcion4": "Excepcional departamento de lujo en un complejo residencial exclusivo. Esta magnífica propiedad ofrece amplios espacios interiores, acabados de alta gama y vistas panorámicas desde cada habitación. Además, cuenta con comodidades de lujo, como una piscina infinita y servicio de mayordomo."
+
+    },
+    {
+        "imagen5": "Imagenes/Departamentos/depto5.jpg",
+        "tamaño5": "3 habitaciones, 3 baños",
+        "precio5": "$1,200,000",
+        "descripcion5": "Exquisito departamento de lujo con vista panorámica. Cuenta con amplios espacios, acabados de alta gama y acceso a comodidades exclusivas como piscina, gimnasio y servicio de conserjería las 24 horas."
+
+    },
+    {
+        "imagen6": "Imagenes/Departamentos/depto6.jpg",
+        "tamaño6": "4 habitaciones, 4 baños",
+        "precio6": "$2,500,000",
+        "descripcion6": "Espectacular penthouse de lujo en el corazón de la ciudad. Este elegante departamento ofrece una vista impresionante, una terraza privada, una cocina gourmet y acabados de primera calidad. Una verdadera joya arquitectónica."
+
+    }
+
+]

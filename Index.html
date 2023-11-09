@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inmobiliaria</title>
+    <link rel="stylesheet" href="Estilos/principal.css">
+</head>
+
+<body>
+    <header class="encabezado">
+        <h1 class="nombre">Inmobistyle</h1>
+        <nav class="navegar">
+            <h4>inmobistyle@gmail.com </h4>
+            <a href="https://www.facebook.com"><img class="logo" src="Imagenes/Logos/facebook.png" height="30px"
+                    width="30px" alt="facebook"></a>
+            <a href="https://www.instagram.com"><img class="logo" src="Imagenes/Logos/Instagram.png" height="30px"
+                    width="30px" alt="instagram"> </a>
+            <a href="https://www.whatsapp.com/?lang=es"><img class="logo" src="Imagenes/Logos/WhatsApp.png"
+                    height="30px" width="30px" alt="whatsapp"></a>
+        </nav>
+    </header>
+
+
+    <main>
+        <!--  casas deptos habitaciones -->
+        <div class="bloques">
+            <div class="bloque-interno">
+                <h2 class="titulos">Casas</h2>
+                <div>
+                    <a href="casas.html" class="contenido" target=”_blank”>Ver más</a>
+                    <div class="image-block">
+                        <img src="Imagenes/Principal/Casa.jpg" alt="Imágen no disponible" height="250px" width="250px">
+                    </div>
+                </div>
+            </div>
+            <div class="bloque-interno">
+                <h2 class="titulos">Departamentos</h2>
+                <div>
+                    <a href="departamentos.html" class="contenido" target=”_blank”>Ver más</a>
+                    <div class="image-block">
+                        <img src="Imagenes/Principal/Departamento.jpg" alt="Imágen no disponible" height="250px"
+                            width="250px">
+                    </div>
+                </div>
+            </div>
+            <div class="bloque-interno">
+                <h2 class="titulos">Habitaciones</h2>
+                <div>
+                    <a href="habitaciones.html" class="contenido" target=”_blank”>Ver más</a>
+                    <div class="image-block">
+                        <img src="Imagenes/Principal/Habitacion.jpg" alt="Imágen no disponible" height="250px"
+                            width="250px">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--  Quienes somos! -->
+
+        <div class="nosotros">
+            <h2 class="titulos"> ¡QUIENES SOMOS!</h2>
+            <p class="descripcion">
+                "Bienvenido a nuestra inmobiliaria, donde encontrarás tu hogar ideal. Nos enorgullece ofrecer una amplia
+                selección de propiedades que se adaptan a tus necesidades y gustos. Ya sea que estés buscando una casa
+                espaciosa para tu familia, un acogedor apartamento en la ciudad o una elegante propiedad de lujo,
+                estamos aquí para ayudarte a encontrar la opción perfecta. Nuestro objetivo es hacer que el proceso de
+                búsqueda y adquisición de tu nuevo hogar sea fácil y satisfactorio."
+                <br>
+                <br>
+                En nuestra inmobiliaria, contamos con un equipo de agentes altamente capacitados y expertos en el
+                mercado inmobiliario. Ellos te guiarán en cada paso del camino, desde la búsqueda inicial hasta la firma
+                del contrato. Nuestros agentes conocen bien la zona y están familiarizados con las últimas tendencias y
+                precios del mercado. Están comprometidos en brindarte un servicio personalizado y asegurarse de que
+                encuentres la propiedad que cumpla con todas tus expectativas. Nos esforzamos por establecer relaciones
+                duraderas con nuestros clientes basadas en la confianza y la satisfacción
+                <br>
+                <br>
+                Además de nuestra amplia cartera de propiedades en venta, también ofrecemos servicios de alquiler y
+                asesoramiento en inversión inmobiliaria. Si estás interesado en generar ingresos pasivos a través de la
+                propiedad de alquileres, nuestros expertos te ayudarán a identificar las mejores oportunidades de
+                inversión. También proporcionamos servicios de gestión de propiedades para aquellos propietarios que
+                buscan un enfoque libre de estrés en la administración de sus activos. En nuestra inmobiliaria, nos
+                esforzamos por ofrecer un servicio integral y completo para satisfacer todas tus necesidades
+                inmobiliarias.
+                <br>
+                <br>
+            </p>
+        </div>
+        <h2 class="titulos"> ¡REGÍSTRATE CON NOSOTROS!</h2>
+        <p class="descripcion">
+            !Si quieres recibir las mejores ofertas, y enterarte de lo mejor, crea tu cuenta con nosotros!
+        </p>
+        <form action="" class="formulario" id="formulario">
+            <!-- Grupo usuario-->
+            <div class="formulario__grupo" id="grupo__usuario">
+                <label for="usuario" class="formulario__label">Usuario</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="usuario" id="usuario"
+                        placeholder="Nombre de usuario">
+                </div>
+                <p class="formulario__input-error"> El usuario debe ser de 4 a 16 digitos y solo puede contener, letras,
+                    numeros y puntos</p>
+            </div>
+
+            <!-- Grupo nombre-->
+
+            <div class="formulario__grupo" id="grupo__nombre">
+                <label for="nombre" class="formulario__label">Nombre</label>
+                <div class="formulario__grupo-input">
+                    <input type="text" class="formulario__input" name="nombre" id="nombre"
+                        placeholder="ingrese su nombre">
+                </div>
+                <p class="formulario__input-error"> El nombre puede contener letras y espacios</p>
+            </div>
+
+            <!-- Grupo password-->
+
+            <div class="formulario__grupo" id="grupo__password">
+                <label for="password" class="formulario__label">Contraseña</label>
+                <div class="formulario__grupo-input">
+                    <input type="password" class="formulario__input" name="password" id="password">
+                </div>
+                <p class="formulario__input-error"> La password debe tener entre 8 y 16 caracteres</p>
+            </div>
+
+            <!-- Grupo password validada-->
+
+            <div class="formulario__grupo" id="grupo__password2">
+                <label for="password2" class="formulario__label">Repetir contraseña</label>
+                <div class="formulario__grupo-input">
+                    <input type="password" class="formulario__input" name="password2" id="password2">
+                </div>
+                <p class="formulario__input-error"> la password debe coincidir</p>
+            </div>
+
+            <!-- Grupo correo-->
+
+            <div class="formulario__grupo" id="grupo__correo">
+                <label for="correo" class="formulario__label">Correo</label>
+                <div class="formulario__grupo-input">
+                    <input type="email" class="formulario__input" name="correo" id="correo"
+                        placeholder="example: jhon123@gmail.com">
+                </div>
+                <p class="formulario__input-error"> ingrese un correo válido</p>
+            </div>
+            <!-- Grupo boton-->
+
+            <div class="button">
+                <button type="submit" class="button__enviar">Enviar</button>
+            </div>
+
+        </form>
+
+    </main>
+
+    <footer class="encabezado">
+        <h1 class="nombre">Inmobistyle</h1>
+        <nav class="navegar">
+            <h4>inmobistyle@gmail.com </h4>
+            <a href="https://www.facebook.com"><img class="logo" src="Imagenes/Logos/facebook.png" height="30px"
+                    width="30px" alt="facebook"></a>
+            <a href="https://www.instagram.com"><img class="logo" src="Imagenes/Logos/Instagram.png" height="30px"
+                    width="30px" alt="instagram"> </a>
+            <a href="https://www.whatsapp.com/?lang=es"><img class="logo" src="Imagenes/Logos/WhatsApp.png"
+                    height="30px" width="30px" alt="whatsapp"></a>
+        </nav>
+    </footer>
+    <script src="ajax/ajax_index.js"></script>
+</body>
+
+</html>

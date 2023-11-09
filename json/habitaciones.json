@@ -1,0 +1,45 @@
+[
+    {
+        "imagen1": "Imagenes/Habitaciones/habitacion1.jpg",
+        "tamaño1": "Habitación Deluxe",
+        "precio1": "$300 ",
+        "descripcion1": " Habitación de lujo con estilo contemporáneo y comodidades de primer nivel. Equipada con una cama queen-size, un baño de mármol y todas las comodidades modernas. Ideal para aquellos que buscan una experiencia de alojamiento exclusiva y confortable."
+
+    },
+    {
+        "imagen2": "Imagenes/Habitaciones/habitacion2.jpg",
+        "tamaño2": "Suite ejecutiva",
+        "precio2": "$500 ",
+        "descripcion2": " Exclusiva suite ejecutiva con vistas panorámicas al mar. Esta espaciosa habitación cuenta con una cama king-size, una zona de estar elegante y acceso a servicios de lujo, como un spa, una piscina privada y un servicio de habitaciones las 24 horas."
+
+    },
+    {
+        "imagen3": "Imagenes/Habitaciones/habitacion3.jpg",
+        "tamaño3": "Suite Presidencial",
+        "precio3": "$800",
+        "descripcion3": " Exquisita suite presidencial con espaciosos salones y una terraza privada. Esta lujosa habitación cuenta con una cama king-size, un baño de mármol con jacuzzi y servicio de mayordomo personalizado. Una experiencia de alojamiento incomparable."
+
+    },
+    {
+        "imagen4": "Imagenes/Habitaciones/habitacion4.jpg",
+        "tamaño4": "Suite Junior",
+        "precio4": "$400 ",
+        "descripcion4": "Amplia suite junior con vistas a los jardines del hotel. Esta elegante habitación cuenta con una cama tamaño king, una sala de estar separada y acceso a un gimnasio y spa de primera clase. Perfecta para disfrutar de una estancia relajante y lujosa."
+
+    },
+    {
+        "imagen5": "Imagenes/Habitaciones/habitacion5.jpg",
+        "tamaño5": "Habitación Familiar",
+        "precio5": "$350",
+        "descripcion5": " Amplia habitación familiar con una cama queen-size y un área de estar. Diseñada para acomodar a familias pequeñas, esta habitación ofrece comodidad y estilo. Disfruta de acceso a áreas recreativas, piscina infantil y servicio de niñera bajo solicitud."
+
+    },
+    {
+        "imagen6": "Imagenes/Habitaciones/habitacion6.jpg",
+        "tamaño6": "Habitación Superior",
+        "precio6": "$250 ",
+        "descripcion6": "Habitación superior con una decoración elegante y todas las comodidades modernas. Equipada con una cama doble, un escritorio de trabajo y acceso a áreas comunes como un salón ejecutivo y un bar exclusivo. Una opción perfecta para viajeros exigentes."
+
+    }
+
+]

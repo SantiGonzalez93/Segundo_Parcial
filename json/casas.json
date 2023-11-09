@@ -1,0 +1,45 @@
+[
+    {
+        "imagen1": "Imagenes/Casas/casa1a.jpg",
+        "tamaño1": "3 habitaciones, 2 baños",
+        "precio1": "250000",
+        "descripcion1": "Encantadora casa de estilo colonial con amplias habitaciones y un hermoso jardín. Cuenta con una cocina renovada, sala de estar luminosa y una ubicación conveniente cerca de parques y comercios locales."
+
+    },
+    {
+        "imagen2": "Imagenes/Casas/casa2.jpg",
+        "tamaño2": "3 habitaciones, 3 baños",
+        "precio2": "500000",
+        "descripcion2": " Elegante mansión contemporánea con impresionantes vistas al océano. Cuenta con una amplia piscina, un diseño interior moderno y acabados de lujo. Ideal para aquellos que buscan una residencia exclusiva."
+
+    },
+    {
+        "imagen3": "Imagenes/Casas/casa3.jpg",
+        "tamaño3": "2 habitaciones, 1 baño",
+        "precio3": "150000",
+        "descripcion3": "Acogedora casa de campo con encanto rústico. Rodeada de naturaleza, esta propiedad ofrece tranquilidad y privacidad. Perfecta como casa de vacaciones o retiro en un entorno sereno."
+
+    },
+    {
+        "imagen4": "Imagenes/Casas/casa4.jpg",
+        "tamaño4": "5 habitaciones, 4 baños",
+        "precio4": "800000",
+        "descripcion4": "Espaciosa casa familiar con un diseño moderno y elegante. Cuenta con una cocina gourmet, amplias áreas de entretenimiento y una suite principal con vestidor. Ubicada en un barrio exclusivo y cercano a excelentes colegios."
+
+    },
+    {
+        "imagen5": "Imagenes/Casas/casa5.jpg",
+        "tamaño5": "6 habitaciones, 4 baños",
+        "precio5": "950000",
+        "descripcion5": "Encantadora casa de estilo colonial con amplias habitaciones y un hermoso jardín. Cuenta con una cocina renovada, sala de estar luminosa y una ubicación conveniente cerca de parques y comercios locales."
+
+    },
+    {
+        "imagen6": "Imagenes/Casas/casa6.jpg",
+        "tamaño6": "2 habitaciones, 1 baños",
+        "precio6": "200000",
+        "descripcion6": "mpresionante mansión clásica con un diseño arquitectónico de época. Esta magnífica propiedad cuenta con amplios espacios formales, un exuberante jardín y una piscina privada. Ideal para aquellos que buscan una residencia de lujo con detalles históricos."
+
+    }
+
+]
